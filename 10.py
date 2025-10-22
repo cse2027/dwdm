@@ -9,3 +9,11 @@ if p <= 0.05:
     print("Dependent: Reject H0")
 else:
     print("Independent: H0 holds true")
+
+"""
+OUTPUT:
+
+Chi-Square Stat: 9.49327943204954
+p-Value: 0.00868081625597216
+Dependent: Reject H0
+"""
